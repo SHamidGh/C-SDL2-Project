@@ -1,0 +1,2 @@
+                                              (((top players)))                                           
+               name|              score|              match|       goal average|               wins|               loss|              draws|
