@@ -1,0 +1,9 @@
+                                              (((top players)))                                           
+               name|              score|              match|       goal average|               wins|               loss|              draws|
+           Hamid9436|                   3|                   2|                  -6|                   1|                   1|                   0|
+                hams|                   3|                   1|                   3|                   1|                   0|                   0|
+              sohrab|                   3|                   1|                   2|                   1|                   0|                   0|
+               gholi|                   3|                   1|                   5|                   1|                   0|                   0|
+              Sohrab|                   0|                   1|                  -3|                   0|                   1|                   0|
+                sina|                   0|                   1|                  -2|                   0|                   1|                   0|
+                 150|                   0|                   1|                  -5|                   0|                   1|                   0|
